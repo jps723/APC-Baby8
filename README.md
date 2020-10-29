@@ -1,6 +1,6 @@
 # APCBaby8 Build Notes 2/16/20
 
-[A handheld Atari Punk Console and Baby 8 Sequencer sits on a table](https://github.com/jps723/APC-Baby8/blob/master/APCBaby8Layout.png)
+![A handheld Atari Punk Console and Baby 8 Sequencer sits on a table](https://github.com/jps723/APC-Baby8/blob/master/APCBaby8Layout.png)
 
 **Design Notes:**
 
