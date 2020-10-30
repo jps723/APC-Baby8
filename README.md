@@ -2,6 +2,8 @@
 
 ![A handheld Atari Punk Console and Baby 8 Sequencer sits on a table](https://github.com/jps723/APC-Baby8/blob/master/APCBaby8Layout.png)
 
+This project is in partnership with [Bantam Tools](https://www.bantamtools.com)
+
 **Design Notes:**
 
 This design is based on the Atari Punk Console and the Baby8 Step Sequencer.  It utilizes three 555 timers, and a 4017 decade counter, to emit a square wave in a repeating series of frequencies.  It’s a stackable design broken into UI and Utility boards.
